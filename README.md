@@ -6,5 +6,5 @@ The simulation setup and parameters for the molecular dynamics (MD) simulations 
 
 - WT-ATP  
 - WT-ADP  
-- SIV-TMM-ATP  
-- SIV-TMM-ADP
+- SIV:TMM-ATP  
+- SIV:TMM-ADP
