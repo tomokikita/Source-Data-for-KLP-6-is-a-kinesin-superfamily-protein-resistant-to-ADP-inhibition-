@@ -1,4 +1,4 @@
-# Source Data for "KLP-6 is a kinesin superfamily protein resistant to ADP inhibition"
+# Source Data for the research paper "KLP-6 is a kinesin superfamily protein resistant to ADP inhibition"
 
 This repository contains the initial coordinates, simulation input files, and representative coordinate files from the final simulation outputs.
 
